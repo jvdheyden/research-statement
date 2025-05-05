@@ -1,0 +1,47 @@
+# LaTeX intermediate files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.dvi
+*.nav
+*.snm
+*.vrb
+*.synctex.gz
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Editors
+*.swp
+*~
+*.bak
+*.backup
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+output/
+_output/
+*.pdf
+
+# LaTeX glossary / index
+*.glg
+*.glo
+*.gls
+*.ist
+*.acn
+*.acr
+*.alg
+*.idx
+*.ilg
+*.ind
