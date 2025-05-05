@@ -32,7 +32,7 @@ Thumbs.db
 build/
 output/
 _output/
-*.pdf
+# *.pdf
 
 # LaTeX glossary / index
 *.glg
